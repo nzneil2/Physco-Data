@@ -22,5 +22,17 @@ switch(choice) {
     case 2:
         printf("%.1lf - %.1lf = %.1lf", num1, num2, num1 - num2);
         break;
-}
+
+    case 3:
+        printf("%.1lf * %.1lf = %.1lf", num1, num2, num1 * num2);
+        break;
+
+    case 4:
+        printf("%.1lf / %.1lf = %.1lf", num1, num2, num1 / num2);
+        break;
+
+    default:printf("Invalid input");
+        break;
+    }
+    return 0;
 }
