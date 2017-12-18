@@ -10,6 +10,6 @@ int main(){
 
     printf("Choose from these Functions: \n1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n");
 
-    scanf("%lf %d %lf",&num1, &choic, &num2);
+    scanf("%lf %d %lf",&num1, &choice, &num2);
 
 }
