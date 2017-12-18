@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Gabriel/Documents/University/CPS1010 - Collaborative Practical Project/Project 3/Project_3-Psycho_Data/calculator.c" "C:/Users/Gabriel/Documents/University/CPS1010 - Collaborative Practical Project/Project 3/Project_3-Psycho_Data/cmake-build-debug/CMakeFiles/calculator.dir/calculator.c.obj"
+  "C:/Users/Gabriel/Documents/University/CPS1010 - Collaborative Practical Project/Project 3/SourceTree/calculator.c" "C:/Users/Gabriel/Documents/University/CPS1010 - Collaborative Practical Project/Project 3/SourceTree/cmake-build-debug/CMakeFiles/calculator.dir/calculator.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Gabriel/Documents/University/CPS1010 - Collaborative Practical Project/Project 3/Project_3-Psycho_Data
+# Install script for directory: C:/Users/Gabriel/Documents/University/CPS1010 - Collaborative Practical Project/Project 3/SourceTree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Gabriel/Documents/University/CPS1010 - Collaborative Practical Project/Project 3/Project_3-Psycho_Data/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Gabriel/Documents/University/CPS1010 - Collaborative Practical Project/Project 3/SourceTree/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
