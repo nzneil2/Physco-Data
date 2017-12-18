@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main(){
@@ -12,4 +13,14 @@ int main(){
 
     scanf("%lf %d %lf",&num1, &choice, &num2);
 
+
+switch(choice) {
+    case 1:
+        printf("%.1lf + %.1lf = %.1lf", num1, num2, num1 + num2);
+        break;
+
+    case 2:
+        printf("%.1lf - %.1lf = %.1lf", num1, num2, num1 - num2);
+        break;
+}
 }
