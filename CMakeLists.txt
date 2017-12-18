@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.7)
+cmake_minimum_required(VERSION 3.8)
 project(Project_3_Psycho_Data)
 
 set(CMAKE_C_STANDARD 99)
